@@ -1,6 +1,6 @@
 ## We write 2 functions: 
-## makeCacheMatrix creates a structure (a list) where a matrix inverse is eventuall
-## stored, as well as basic to to read the initial matrix and its inverse or NUL if it is not yet computed
+## makeCacheMatrix creates a structure (a list) where a matrix inverse is eventually
+## stored, as well as basic functions to read the initial matrix and its inverse or NUL if it is not yet computed
 ##
 ##cacheSolve returns the inverse of the matrix if it is already computed and stored, 
 ## otherwise  it computes it using the function solve, and stores it in the cache matrix structure
